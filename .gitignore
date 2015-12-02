@@ -1,6 +1,11 @@
 ### Java template
 *.class
 
+# IntelliJ
+.idea/encodings.xml
+.idea/workspace.xml
+out
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
