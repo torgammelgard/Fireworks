@@ -1,3 +1,6 @@
+![release version](https://img.shields.io/badge/release-v1.1-blue.svg)
+[![Build Status](https://travis-ci.org/torgammelgard/fireworks.svg?branch=master)](https://travis-ci.org/torgammelgard/fireworks)
+
 # Fireworks
 
 ## Description
